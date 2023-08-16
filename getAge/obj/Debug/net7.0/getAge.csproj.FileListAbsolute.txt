@@ -1,0 +1,14 @@
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.AssemblyInfoInputs.cache
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.AssemblyInfo.cs
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.csproj.CoreCompileInputs.cache
+C:\Users\nann4\source\Repos\getAge\bin\Debug\net7.0\getAge.exe
+C:\Users\nann4\source\Repos\getAge\bin\Debug\net7.0\getAge.deps.json
+C:\Users\nann4\source\Repos\getAge\bin\Debug\net7.0\getAge.runtimeconfig.json
+C:\Users\nann4\source\Repos\getAge\bin\Debug\net7.0\getAge.dll
+C:\Users\nann4\source\Repos\getAge\bin\Debug\net7.0\getAge.pdb
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.dll
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\refint\getAge.dll
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.pdb
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\getAge.genruntimeconfig.cache
+C:\Users\nann4\source\Repos\getAge\obj\Debug\net7.0\ref\getAge.dll
